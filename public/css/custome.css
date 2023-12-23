@@ -1,0 +1,37 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.icon-nav{
+    position: relative;
+    color: #FFFFFF8C;
+  }
+  .icon-nav:hover{  
+    color: white;
+  }
+  .circle{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    top: 14px;
+    right: 80px;
+  }
+  
+  section{
+    min-height: 80vh;
+  }
+
+  /* style footer */
+  footer{    
+    position: static;
+    bottom: 0;
+    background-color: #808080;
+  }
+  
