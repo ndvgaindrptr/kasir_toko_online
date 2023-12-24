@@ -17,7 +17,7 @@
             </h2>
             <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
               <div class="accordion-body p-0">
-                <div class="d-flex flex-column gap4">
+                <div class="d-flex flex-column gap-4">
                   <a href="#" class="page-link">
                     <i class="fas fa-plus"></i>Baju Pria
                   </a>
@@ -39,7 +39,7 @@
             </h2>
             <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
               <div class="accordion-body p-0">
-                <div class="d-flex flex-column gap4">
+                <div class="d-flex flex-column gap-4">
                   <a href="#" class="page-link">
                     <i class="fas fa-plus"></i>Baju Wanita
                   </a>
@@ -60,7 +60,7 @@
           </h2>
           <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body p-0">
-              <div class="d-flex flex-column gap4">
+              <div class="d-flex flex-column gap-4">
                 <a href="#" class="page-link">
                   <i class="fas fa-plus"></i>Baju Anak-anak
                 </a>
